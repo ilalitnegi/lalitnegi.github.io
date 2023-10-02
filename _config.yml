@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lalit Negi"
-  avatar           : "images/profile_pic.png"
+  avatar           : "profile_pic.png"
   bio              : "Research Scientist"
   location         : "Delhi, India"
   employer         :
