@@ -53,4 +53,4 @@ My involvement in the project encompassed a diverse set of responsibilities and 
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If you're interested in collaborating on a project or idea, please feel free to reach out to me at [mail](lalitnegi0511@gmail.com). I'd be delighted to discuss further and explore potential opportunities with you.
