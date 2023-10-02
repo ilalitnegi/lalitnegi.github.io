@@ -2,14 +2,15 @@
 title: "Hybrid approach for Data Security using Coverless Image Steganography with AES"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Lalit Negi and Lokesh Negi, (2021). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'We need systems which makes data more secure as threats to data are increasing day by day. Cryptography and Steganography are the techniques which resist security threats from adversary entities. The combination of cryptography and steganography helps in achieving the more security of data instead of using the technique alone at a time. Today we have systems for data security that combines cryptography and steganography but they use covered steganography. Our proposed work uses the coverless image steganography instead of covered image steganography technique with encryption algorithm. Proposed work enhances the level of the data security by using the encryption process at first level and at the second level data is embedded into the container media using coverless image steganography technique. The proposed system uses the 128-bit variant of AES symmetric algorithm for encryption of the data. Here the proposed system uses the coverless image steganography because the conventional covered steganography is hard to resist the steganalysis tools. Coverless image steganography means embedding the secret message by generating a cover image. The proposed system uses the fresh concept of coverless image steganography given by A.H.S Saad & others as the steganographic technique whose payload capacity is maximum than other coverless image steganography algorithms.'
+date: 2021
+venue: '6th International Conference on Communication and Electronics Systems (ICCES)'
+paperurl: 'https://ieeexplore.ieee.org/document/9489260'
+citation: 'Lalit Negi and Lokesh Negi, (2021). &quot;Hybrid approach for Data Security using Coverless Image Steganography with AES.&quot; <i>6th International
+Conference on Communication and Electronics Systems (ICCES)</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We need systems which makes data more secure as threats to data are increasing day by day. Cryptography and Steganography are the techniques which resist security threats from adversary entities. The combination of cryptography and steganography helps in achieving the more security of data instead of using the technique alone at a time. Today we have systems for data security that combines cryptography and steganography but they use covered steganography. Our proposed work uses the coverless image steganography instead of covered image steganography technique with encryption algorithm. Proposed work enhances the level of the data security by using the encryption process at first level and at the second level data is embedded into the container media using coverless image steganography technique. The proposed system uses the 128-bit variant of AES symmetric algorithm for encryption of the data. Here the proposed system uses the coverless image steganography because the conventional covered steganography is hard to resist the steganalysis tools. Coverless image steganography means embedding the secret message by generating a cover image. The proposed system uses the fresh concept of coverless image steganography given by A.H.S Saad & others as the steganographic technique whose payload capacity is maximum than other coverless image steganography algorithms.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9489260)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
