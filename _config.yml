@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lalit Negi"
 title_separator          : "-"
 name                     : &name "Lalit Negi"
-description              : &description "personal description"
+description              : &description "Research Scientist"
 url                      : https://ilalitnegi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ilalitnegi/ilalitnegi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lalit Negi"
   avatar           : "images/profile_pic.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Scientist"
   location         : "Delhi, India"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
