@@ -51,6 +51,6 @@ My involvement in the project encompassed a diverse set of responsibilities and 
 <!-- It enables uninterrupted and integrated air operations throughout the entire airspace of the country, covering the Area of Responsibility (AOR) for the nation. IACCS serves as an automated Command and Control center for the Air Force, responsible for the control and surveillance of Air Operations. In the era of network-centric warfare, having access to a Recognized Air Situation Picture (RASP) is of paramount importance. This information needs to be available at different levels to facilitate a series of tactical decisions. These levels include the strategic level (Air Headquarters), operational level (Command Headquarters), and tactical level (Divisional level). Information sharing entails the exchange of critical data through dedicated links among the Navy, Army, and Civil Radar networks.-->
 
 
-For more info
+Collaboration
 ------
 If you're interested in collaborating on a project or idea, please feel free to reach out to me at mail: 'lalitnegi0511@gmail.com'. I'd be delighted to discuss further and explore potential opportunities with you.
