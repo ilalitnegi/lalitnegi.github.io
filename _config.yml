@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lalit Negi / Homepage"
+title                    : "Lalit Negi"
 title_separator          : "-"
 name                     : &name "Lalit Negi"
 description              : &description "personal description"
