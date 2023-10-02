@@ -53,4 +53,4 @@ My involvement in the project encompassed a diverse set of responsibilities and 
 
 For more info
 ------
-If you're interested in collaborating on a project or idea, please feel free to reach out to me at [mail](lalitnegi0511@gmail.com). I'd be delighted to discuss further and explore potential opportunities with you.
+If you're interested in collaborating on a project or idea, please feel free to reach out to me at mail: 'lalitnegi0511@gmail.com'. I'd be delighted to discuss further and explore potential opportunities with you.
