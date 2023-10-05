@@ -11,7 +11,8 @@ Research Scientist specializing in the development of cutting-edge [simulators](
 
 Projects
 ======
-<li>  iCBTC: [iCBTC](https://www.metrorailnews.in) is an indigenous communication-based train control system (i CBTC), which is being developed in India for the first time, shall enable unmanned metro and train operations. Communications-Based Train Control (CBTC) is an advanced railway signaling system that relies on telecommunications for communication between trains and trackside equipment to manage traffic and control railway infrastructure. CBTC offers a highly precise means of determining a train's exact position, surpassing the accuracy of traditional signaling systems. This results in a more efficient and safer approach to overseeing railway traffic. Metros and other train systems can expand their capacity while upholding or even improving safety. CBTC is classified as a continuous and automatic train control (ATC) system. 
+<li>  iCBTC: [icbtc]\
+  (https://www.metrorailnews.in) is an indigenous communication-based train control system (i CBTC), which is being developed in India for the first time, shall enable unmanned metro and train operations. Communications-Based Train Control (CBTC) is an advanced railway signaling system that relies on telecommunications for communication between trains and trackside equipment to manage traffic and control railway infrastructure. CBTC offers a highly precise means of determining a train's exact position, surpassing the accuracy of traditional signaling systems. This results in a more efficient and safer approach to overseeing railway traffic. Metros and other train systems can expand their capacity while upholding or even improving safety. CBTC is classified as a continuous and automatic train control (ATC) system. 
 
 Within the framework of the project, I undertook a variety of responsibilities and tasks that included the following:
  <ul type = "square"> 
