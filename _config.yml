@@ -84,7 +84,7 @@ author:
   avatar           : "images/profile_pic.png"
   bio              : "Research Scientist"
   location         : "Delhi, India"
-  employer         : "Central Research Laboratory, Bharat Electronics Limited"
+  employer         : "CRL, Bharat Electronics Limited"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LXctJfMAAAAJ&hl=en"
   email            : "lalitnegi0511@gmail.com"
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
